@@ -1,1 +1,1 @@
-# Bitácora de aprendizaje de la unidad 3: Lenguaje de alto nivel
+# Bitácora de aprendizaje de la unidad 3: lenguaje de alto nivel
